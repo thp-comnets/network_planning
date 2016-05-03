@@ -1,0 +1,21 @@
+{
+  "name": "XXX",
+  "budget": "XXX",
+  "bandwidth": "XXX",
+  "location": {
+    "lat": "XX.XXXX",
+    "long": "XX.XXXX",
+    "mount point": "XX"
+  },
+  "existing hardware": [
+    {
+      "manufacturer": "XXXX",
+      "firmware": "XXXX",
+      "ip": "XXX.XXX.XXX.XXX",
+      "mac": "XX:XX:XX:XX:XX:XX",
+      "freq": "XX",
+      "tx power": "XX",
+      "range": "XX"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+ {
+  "restricted area": [
+    {
+      "lat from": "XX.XXXX",
+      "lat to": "XX.XXXX",
+      "long from": "XX.XXXX",
+      "long to": "XX.XXXX"
+    }
+  ],
+  "hardware": [
+    {
+      "manufacturer": "XXXX",
+      "firmware": "XXXX",
+      "ip": "XXX.XXX.XXX.XXX",
+      "mac": "XX:XX:XX:XX:XX:XX",
+      "freq": "XX",
+      "bandwidth": "XX",
+      "tx power": "XX",
+      "range": "XX",
+      "cost": "XX"
+    }
+  ]
+}
